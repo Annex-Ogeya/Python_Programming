@@ -1,4 +1,8 @@
 Names = ["Annex","Annie","Annet"]
 
-for a in Names :
-    print(a)
+for name in Names :
+    print(name)
+
+Fruits = ["Apple","Banana","Cherry"]
+for fruit in Fruits:
+    print(fruit)
